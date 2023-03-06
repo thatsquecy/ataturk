@@ -1,0 +1,60 @@
+.ataturkresim{
+    width: 20%;
+    height: auto;
+    justify-content: center;
+    margin-left: 38%;
+    margin-right: auto;
+    align-items: center;
+}
+.ataturkaltyazilar{
+
+}
+.ataturkbaslik{
+    color: white;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 400%;
+}
+.ataturkbaslik2{
+    color: white;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 200%;
+}
+.ataturkbaslik3{
+    color: white;
+    text-align: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 200%;
+}
+.ataturkbaslik4{
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 200%;
+}
+.tarih{
+    color: white;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 200%;
+    margin-top: -2.6%;
+}
+.ataturkparagraf{
+    margin-top: -1.2%;
+    color: white;
+    text-align: left;
+    font-family: cursive;
+}
+.ataturkparagraf2{
+    margin-top: -1.2%;
+    color: white;
+    text-align: right;
+    font-family: cursive;
+}
+.ataturkparagraf3{
+    margin-top: -1.2%;
+    color: white;
+    text-align: center;
+    font-family: cursive;
+}
